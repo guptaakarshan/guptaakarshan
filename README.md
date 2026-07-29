@@ -1,5 +1,5 @@
 # 💫 About Me: Hi! I am Akarshan Gupta
-3rd-year CSE student skilled in modern web technologies and full-stack development (MERN stack), focused on building scalable, user-centric applications.<br><br>Proficient in Data Analytics, with strong command over Python, SQL, and analytical libraries—capable of transforming data into actionable insights.<br><br>Actively learning Machine Learning and working on impactful full-stack + ML projects to bridge intelligent systems with real-world applications.
+final-year CSE student skilled in modern web technologies and full-stack development (MERN stack), focused on building scalable, user-centric applications.<br><br>Proficient in Data Analytics, with strong command over Python, SQL, and analytical libraries—capable of transforming data into actionable insights.<br><br>Actively learning Machine Learning and working on impactful full-stack + ML projects to bridge intelligent systems with real-world applications.
 
 
 ## 🌐 Socials:
